@@ -1,0 +1,2278 @@
+{
+    "Imperatriz": {
+        "ele": "10143",
+        "t": "1",
+        "f": "s",
+        "sup": "n",
+        "tpabr": "mu",
+        "cdabr": "08036",
+        "dg": "02/10/2024",
+        "hg": "08:42:03",
+        "dv": "s",
+        "dt": "02/10/2024",
+        "ht": "08:15:10",
+        "tf": "s",
+        "and": "f",
+        "esae": "n",
+        "mnae": [],
+        "carg": [
+            {
+                "cd": "11",
+                "nmn": "Prefeito",
+                "nmm": "Prefeito",
+                "nmf": "Prefeita",
+                "nv": "1",
+                "fed": [
+                    {
+                        "n": "102",
+                        "sg": "F102",
+                        "nm": "FEDERAÇÃO (P61/P87/P82)",
+                        "com": "P61/P87/P82",
+                        "npar": [
+                            "61",
+                            "82",
+                            "87"
+                        ]
+                    },
+                    {
+                        "n": "101",
+                        "sg": "F101",
+                        "nm": "FEDERAÇÃO (P84/P69)",
+                        "com": "P84/P69",
+                        "npar": [
+                            "69",
+                            "84"
+                        ]
+                    }
+                ],
+                "agr": [
+                    {
+                        "n": "280004552675",
+                        "nm": "COLIGAÇÃO (P62/P85/P64)",
+                        "tp": "c",
+                        "com": "P62/P85/P64",
+                        "tvtn": "10826",
+                        "tvan": "10826",
+                        "par": [
+                            {
+                                "n": "62",
+                                "sg": "P62",
+                                "nm": "PARTIDO 62",
+                                "nfed": "",
+                                "tvtn": "10826",
+                                "tvan": "10826",
+                                "cand": [
+                                    {
+                                        "n": "62",
+                                        "sqcand": "280013128977",
+                                        "nm": "CANDIDATO 62",
+                                        "nmu": "CANDIDATO 62",
+                                        "dt": "20/08/1956",
+                                        "dvt": "Válido",
+                                        "seq": "207",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "10826",
+                                        "pvap": "9,54",
+                                        "pvapn": "9,536225501",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013128978",
+                                                "nm": "CANDIDATO 62 1",
+                                                "nmu": "CANDIDATO 62 1",
+                                                "sgp": "P62"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004552654",
+                        "nm": "FEDERAÇÃO (P69/P84)",
+                        "tp": "f",
+                        "com": "P69/P84",
+                        "tvtn": "0",
+                        "tvan": "12131",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "84",
+                                "sg": "P84",
+                                "nm": "PARTIDO 84",
+                                "nfed": "101",
+                                "tvtn": "0",
+                                "tvan": "12131",
+                                "cand": [
+                                    {
+                                        "n": "84",
+                                        "sqcand": "280013128886",
+                                        "nm": "CANDIDATO 84",
+                                        "nmu": "CANDIDATO 84",
+                                        "dt": "03/09/1994",
+                                        "dvt": "Anulado sub judice",
+                                        "seq": "198",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "12131",
+                                        "pvap": "10,69",
+                                        "pvapn": "10,685752037",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013128887",
+                                                "nm": "CANDIDATO 84 1",
+                                                "nmu": "CANDIDATO 84 1",
+                                                "sgp": "P84"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004552701",
+                        "nm": "PARTIDO 83",
+                        "tp": "i",
+                        "com": "P83",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "83",
+                                "sg": "P83",
+                                "nm": "PARTIDO 83",
+                                "nfed": "",
+                                "tvtn": "11411",
+                                "tvan": "11411",
+                                "cand": [
+                                    {
+                                        "n": "83",
+                                        "sqcand": "280013128945",
+                                        "nm": "CANDIDATO 83",
+                                        "nmu": "CANDIDATO 83",
+                                        "dt": "29/09/1988",
+                                        "dvt": "Válido",
+                                        "seq": "202",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "11411",
+                                        "pvap": "10,05",
+                                        "pvapn": "10,051530500",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013128946",
+                                                "nm": "CANDIDATO 83 1",
+                                                "nmu": "CANDIDATO 83 1",
+                                                "sgp": "P83"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004552726",
+                        "nm": "PARTIDO 51",
+                        "tp": "i",
+                        "com": "P51",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "51",
+                                "sg": "P51",
+                                "nm": "PARTIDO 51",
+                                "nfed": "",
+                                "tvtn": "11204",
+                                "tvan": "11204",
+                                "cand": [
+                                    {
+                                        "n": "51",
+                                        "sqcand": "280013129077",
+                                        "nm": "CANDIDATO 51",
+                                        "nmu": "CANDIDATO 51",
+                                        "dt": "16/10/1958",
+                                        "dvt": "Válido",
+                                        "seq": "204",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "11204",
+                                        "pvap": "9,87",
+                                        "pvapn": "9,869191808",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013129078",
+                                                "nm": "CANDIDATO 51 1",
+                                                "nmu": "CANDIDATO 51 1",
+                                                "sgp": "P51"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004552718",
+                        "nm": "COLIGAÇÃO (P88/P89/P90)",
+                        "tp": "c",
+                        "com": "P88/P89/P90",
+                        "tvtn": "9643",
+                        "tvan": "9643",
+                        "par": [
+                            {
+                                "n": "88",
+                                "sg": "P88",
+                                "nm": "PARTIDO 88",
+                                "nfed": "",
+                                "tvtn": "9643",
+                                "tvan": "9643",
+                                "cand": [
+                                    {
+                                        "n": "88",
+                                        "sqcand": "280013129003",
+                                        "nm": "CANDIDATO 88",
+                                        "nmu": "CANDIDATO 88",
+                                        "dt": "24/07/1964",
+                                        "dvt": "Válido",
+                                        "seq": "215",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "9643",
+                                        "pvap": "8,49",
+                                        "pvapn": "8,494164281",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013129004",
+                                                "nm": "CANDIDATO 88 1",
+                                                "nmu": "CANDIDATO 88 1",
+                                                "sgp": "P88"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004552719",
+                        "nm": "PARTIDO 75",
+                        "tp": "i",
+                        "com": "P75",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "75",
+                                "sg": "P75",
+                                "nm": "PARTIDO 75",
+                                "nfed": "",
+                                "tvtn": "10915",
+                                "tvan": "10915",
+                                "cand": [
+                                    {
+                                        "n": "75",
+                                        "sqcand": "280013129005",
+                                        "nm": "CANDIDATO 75",
+                                        "nmu": "CANDIDATO 75",
+                                        "dt": "22/10/1977",
+                                        "dvt": "Válido",
+                                        "seq": "206",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "10915",
+                                        "pvap": "9,61",
+                                        "pvapn": "9,614622330",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013129006",
+                                                "nm": "CANDIDATO 75 1",
+                                                "nmu": "CANDIDATO 75 1",
+                                                "sgp": "P75"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004552670",
+                        "nm": "PARTIDO 58",
+                        "tp": "i",
+                        "com": "P58",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "58",
+                                "sg": "P58",
+                                "nm": "PARTIDO 58",
+                                "nfed": "",
+                                "tvtn": "10491",
+                                "tvan": "10491",
+                                "cand": [
+                                    {
+                                        "n": "58",
+                                        "sqcand": "280013128849",
+                                        "nm": "CANDIDATO 58",
+                                        "nmu": "CANDIDATO 58",
+                                        "dt": "10/11/1929",
+                                        "dvt": "Válido",
+                                        "seq": "210",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "10491",
+                                        "pvap": "9,24",
+                                        "pvapn": "9,241136314",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013128850",
+                                                "nm": "CANDIDATO 58 1",
+                                                "nmu": "CANDIDATO 58 1",
+                                                "sgp": "P58"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004552691",
+                        "nm": "PARTIDO 81",
+                        "tp": "i",
+                        "com": "P81",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "81",
+                                "sg": "P81",
+                                "nm": "PARTIDO 81",
+                                "nfed": "",
+                                "tvtn": "11471",
+                                "tvan": "11471",
+                                "cand": [
+                                    {
+                                        "n": "81",
+                                        "sqcand": "280013129050",
+                                        "nm": "CANDIDATO 81",
+                                        "nmu": "CANDIDATO 81",
+                                        "dt": "28/03/1963",
+                                        "dvt": "Válido",
+                                        "seq": "201",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "11471",
+                                        "pvap": "10,10",
+                                        "pvapn": "10,104382295",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013129051",
+                                                "nm": "CANDIDATO 81 1",
+                                                "nmu": "CANDIDATO 81 1",
+                                                "sgp": "P81"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004552655",
+                        "nm": "FEDERAÇÃO (P87/P61/P82)",
+                        "tp": "f",
+                        "com": "P87/P61/P82",
+                        "tvtn": "13389",
+                        "tvan": "13389",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "61",
+                                "sg": "P61",
+                                "nm": "PARTIDO 61",
+                                "nfed": "102",
+                                "tvtn": "13389",
+                                "tvan": "13389",
+                                "cand": [
+                                    {
+                                        "n": "61",
+                                        "sqcand": "280013128888",
+                                        "nm": "CANDIDATO 61",
+                                        "nmu": "CANDIDATO 61",
+                                        "dt": "09/02/1999",
+                                        "dvt": "Válido",
+                                        "seq": "3",
+                                        "e": "s",
+                                        "st": "Eleito",
+                                        "vap": "13389",
+                                        "pvap": "11,79",
+                                        "pvapn": "11,793878000",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013128889",
+                                                "nm": "CANDIDATO 61 1",
+                                                "nmu": "CANDIDATO 61 1",
+                                                "sgp": "P61"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004552616",
+                        "nm": "PARTIDO 59",
+                        "tp": "i",
+                        "com": "P59",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "59",
+                                "sg": "P59",
+                                "nm": "PARTIDO 59",
+                                "nfed": "",
+                                "tvtn": "12044",
+                                "tvan": "12044",
+                                "cand": [
+                                    {
+                                        "n": "59",
+                                        "sqcand": "280013128935",
+                                        "nm": "CANDIDATO 59",
+                                        "nmu": "CANDIDATO 59",
+                                        "dt": "25/11/1983",
+                                        "dvt": "Válido",
+                                        "seq": "199",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "12044",
+                                        "pvap": "10,61",
+                                        "pvapn": "10,609116935",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013128936",
+                                                "nm": "CANDIDATO 59 1",
+                                                "nmu": "CANDIDATO 59 1",
+                                                "sgp": "P59"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "s": {
+            "ts": "587",
+            "st": "587",
+            "pst": "100,00",
+            "pstn": "100",
+            "snt": "0",
+            "psnt": "0,00",
+            "psntn": "0",
+            "si": "587",
+            "psi": "100,00",
+            "psin": "100",
+            "sni": "0",
+            "psni": "0,00",
+            "psnin": "0",
+            "sa": "587",
+            "psa": "100,00",
+            "psan": "100",
+            "sna": "0",
+            "psna": "0,00",
+            "psnan": "0"
+        },
+        "e": {
+            "te": "162474",
+            "est": "162474",
+            "pest": "100,00",
+            "pestn": "100",
+            "esnt": "0",
+            "pesnt": "0,00",
+            "pesntn": "0",
+            "esi": "162474",
+            "pesi": "100,00",
+            "pesin": "100",
+            "esni": "0",
+            "pesni": "0,00",
+            "pesnin": "0",
+            "esa": "162474",
+            "pesa": "100,00",
+            "pesan": "100",
+            "esna": "0",
+            "pesna": "0,00",
+            "pesnan": "0",
+            "c": "138395",
+            "pc": "85,18",
+            "pcn": "85,179782611",
+            "a": "24079",
+            "pa": "14,82",
+            "pan": "14,820217389"
+        },
+        "v": {
+            "tv": "138395",
+            "vvc": "113525",
+            "pvvc": "82,03",
+            "pvvcn": "82,029697605",
+            "vv": "101394",
+            "pvv": "89,31",
+            "pvvn": "89,314247963",
+            "vnom": "101394",
+            "pvnom": "100,00",
+            "pvnomn": "100",
+            "van": "0",
+            "pvan": "0,00",
+            "pvann": "0",
+            "vansj": "12131",
+            "pvansj": "10,69",
+            "pvansjn": "10,685752037",
+            "vb": "12011",
+            "pvb": "8,68",
+            "pvbn": "8,678781748",
+            "tvn": "12859",
+            "ptvn": "9,29",
+            "ptvnn": "9,291520647",
+            "vn": "12859",
+            "pvn": "100,00",
+            "pvnn": "100",
+            "vnt": "0",
+            "pvnt": "0,00",
+            "pvntn": "0",
+            "vscv": "0"
+        }
+    },
+    "Balsas": {
+        "ele": "10143",
+        "t": "1",
+        "f": "s",
+        "sup": "n",
+        "tpabr": "mu",
+        "cdabr": "07277",
+        "dg": "02/10/2024",
+        "hg": "08:42:03",
+        "dv": "s",
+        "dt": "02/10/2024",
+        "ht": "08:00:08",
+        "tf": "s",
+        "and": "f",
+        "esae": "n",
+        "mnae": [],
+        "carg": [
+            {
+                "cd": "11",
+                "nmn": "Prefeito",
+                "nmm": "Prefeito",
+                "nmf": "Prefeita",
+                "nv": "1",
+                "fed": [
+                    {
+                        "n": "102",
+                        "sg": "F102",
+                        "nm": "FEDERAÇÃO (P61/P87/P82)",
+                        "com": "P61/P87/P82",
+                        "npar": [
+                            "61",
+                            "82",
+                            "87"
+                        ]
+                    },
+                    {
+                        "n": "101",
+                        "sg": "F101",
+                        "nm": "FEDERAÇÃO (P84/P69)",
+                        "com": "P84/P69",
+                        "npar": [
+                            "69",
+                            "84"
+                        ]
+                    }
+                ],
+                "agr": [
+                    {
+                        "n": "280004554786",
+                        "nm": "FEDERAÇÃO (P87/P61/P82)",
+                        "tp": "f",
+                        "com": "P87/P61/P82",
+                        "tvtn": "5739",
+                        "tvan": "5739",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "61",
+                                "sg": "P61",
+                                "nm": "PARTIDO 61",
+                                "nfed": "102",
+                                "tvtn": "5739",
+                                "tvan": "5739",
+                                "cand": [
+                                    {
+                                        "n": "61",
+                                        "sqcand": "280013136320",
+                                        "nm": "CANDIDATO 61",
+                                        "nmu": "CANDIDATO 61",
+                                        "dt": "19/03/1987",
+                                        "dvt": "Válido",
+                                        "seq": "261",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "5739",
+                                        "pvap": "15,46",
+                                        "pvapn": "15,456087905",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013136321",
+                                                "nm": "CANDIDATO 61 1",
+                                                "nmu": "CANDIDATO 61 1",
+                                                "sgp": "P61"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004553933",
+                        "nm": "PARTIDO 59",
+                        "tp": "i",
+                        "com": "P59",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "59",
+                                "sg": "P59",
+                                "nm": "PARTIDO 59",
+                                "nfed": "",
+                                "tvtn": "0",
+                                "tvan": "5253",
+                                "cand": [
+                                    {
+                                        "n": "59",
+                                        "sqcand": "280013134694",
+                                        "nm": "CANDIDATO 59",
+                                        "nmu": "CANDIDATO 59",
+                                        "dt": "17/05/1923",
+                                        "dvt": "Anulado sub judice",
+                                        "seq": "264",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "5253",
+                                        "pvap": "14,15",
+                                        "pvapn": "14,147208532",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013134695",
+                                                "nm": "CANDIDATO 59 1",
+                                                "nmu": "CANDIDATO 59 1",
+                                                "sgp": "P59"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004555223",
+                        "nm": "COLIGAÇÃO (P62/P85/P64)",
+                        "tp": "c",
+                        "com": "P62/P85/P64",
+                        "tvtn": "6062",
+                        "tvan": "6062",
+                        "par": [
+                            {
+                                "n": "62",
+                                "sg": "P62",
+                                "nm": "PARTIDO 62",
+                                "nfed": "",
+                                "tvtn": "6062",
+                                "tvan": "6062",
+                                "cand": [
+                                    {
+                                        "n": "62",
+                                        "sqcand": "280013137162",
+                                        "nm": "CANDIDATO 62",
+                                        "nmu": "CANDIDATO 62",
+                                        "dt": "29/08/1994",
+                                        "dvt": "Válido",
+                                        "seq": "254",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "6062",
+                                        "pvap": "16,33",
+                                        "pvapn": "16,325980986",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013137163",
+                                                "nm": "CANDIDATO 62 1",
+                                                "nmu": "CANDIDATO 62 1",
+                                                "sgp": "P62"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004555606",
+                        "nm": "COLIGAÇÃO (P88/P89/P90)",
+                        "tp": "c",
+                        "com": "P88/P89/P90",
+                        "tvtn": "6496",
+                        "tvan": "6496",
+                        "par": [
+                            {
+                                "n": "88",
+                                "sg": "P88",
+                                "nm": "PARTIDO 88",
+                                "nfed": "",
+                                "tvtn": "6496",
+                                "tvan": "6496",
+                                "cand": [
+                                    {
+                                        "n": "88",
+                                        "sqcand": "280013137968",
+                                        "nm": "CANDIDATO 88",
+                                        "nmu": "CANDIDATO 88",
+                                        "dt": "22/07/1979",
+                                        "dvt": "Válido",
+                                        "seq": "243",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "6496",
+                                        "pvap": "17,49",
+                                        "pvapn": "17,494815653",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013137969",
+                                                "nm": "CANDIDATO 88 1",
+                                                "nmu": "CANDIDATO 88 1",
+                                                "sgp": "P88"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004553540",
+                        "nm": "PARTIDO 58",
+                        "tp": "i",
+                        "com": "P58",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "58",
+                                "sg": "P58",
+                                "nm": "PARTIDO 58",
+                                "nfed": "",
+                                "tvtn": "6494",
+                                "tvan": "6494",
+                                "cand": [
+                                    {
+                                        "n": "58",
+                                        "sqcand": "280013133833",
+                                        "nm": "CANDIDATO 58",
+                                        "nmu": "CANDIDATO 58",
+                                        "dt": "30/01/1987",
+                                        "dvt": "Válido",
+                                        "seq": "244",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "6494",
+                                        "pvap": "17,49",
+                                        "pvapn": "17,489429318",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013133834",
+                                                "nm": "CANDIDATO 58 1",
+                                                "nmu": "CANDIDATO 58 1",
+                                                "sgp": "P58"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004554382",
+                        "nm": "FEDERAÇÃO (P69/P84)",
+                        "tp": "f",
+                        "com": "P69/P84",
+                        "tvtn": "7087",
+                        "tvan": "7087",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "69",
+                                "sg": "P69",
+                                "nm": "PARTIDO 69",
+                                "nfed": "101",
+                                "tvtn": "7087",
+                                "tvan": "7087",
+                                "cand": [
+                                    {
+                                        "n": "69",
+                                        "sqcand": "280013135466",
+                                        "nm": "CANDIDATO 69",
+                                        "nmu": "CANDIDATO 69",
+                                        "dt": "11/08/1927",
+                                        "dvt": "Válido",
+                                        "seq": "11",
+                                        "e": "s",
+                                        "st": "Eleito",
+                                        "vap": "7087",
+                                        "pvap": "19,09",
+                                        "pvapn": "19,086477606",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013135467",
+                                                "nm": "CANDIDATO 69 1",
+                                                "nmu": "CANDIDATO 69 1",
+                                                "sgp": "P69"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "s": {
+            "ts": "192",
+            "st": "192",
+            "pst": "100,00",
+            "pstn": "100",
+            "snt": "0",
+            "psnt": "0,00",
+            "psntn": "0",
+            "si": "192",
+            "psi": "100,00",
+            "psin": "100",
+            "sni": "0",
+            "psni": "0,00",
+            "psnin": "0",
+            "sa": "192",
+            "psa": "100,00",
+            "psan": "100",
+            "sna": "0",
+            "psna": "0,00",
+            "psnan": "0"
+        },
+        "e": {
+            "te": "57270",
+            "est": "57270",
+            "pest": "100,00",
+            "pestn": "100",
+            "esnt": "0",
+            "pesnt": "0,00",
+            "pesntn": "0",
+            "esi": "57270",
+            "pesi": "100,00",
+            "pesin": "100",
+            "esni": "0",
+            "pesni": "0,00",
+            "pesnin": "0",
+            "esa": "57270",
+            "pesa": "100,00",
+            "pesan": "100",
+            "esna": "0",
+            "pesna": "0,00",
+            "pesnan": "0",
+            "c": "48775",
+            "pc": "85,17",
+            "pcn": "85,166753972",
+            "a": "8495",
+            "pa": "14,83",
+            "pan": "14,833246028"
+        },
+        "v": {
+            "tv": "48775",
+            "vvc": "37131",
+            "pvvc": "76,13",
+            "pvvcn": "76,127114300",
+            "vv": "31878",
+            "pvv": "85,85",
+            "pvvn": "85,852791468",
+            "vnom": "31878",
+            "pvnom": "100,00",
+            "pvnomn": "100",
+            "van": "0",
+            "pvan": "0,00",
+            "pvann": "0",
+            "vansj": "5253",
+            "pvansj": "14,15",
+            "pvansjn": "14,147208532",
+            "vb": "6266",
+            "pvb": "12,85",
+            "pvbn": "12,846745259",
+            "tvn": "5378",
+            "ptvn": "11,03",
+            "ptvnn": "11,026140441",
+            "vn": "5378",
+            "pvn": "100,00",
+            "pvnn": "100",
+            "vnt": "0",
+            "pvnt": "0,00",
+            "pvntn": "0",
+            "vscv": "0"
+        }
+    },
+    "Timon": {
+        "ele": "10143",
+        "t": "1",
+        "f": "s",
+        "sup": "n",
+        "tpabr": "mu",
+        "cdabr": "09377",
+        "dg": "02/10/2024",
+        "hg": "08:42:04",
+        "dv": "s",
+        "dt": "02/10/2024",
+        "ht": "08:00:29",
+        "tf": "s",
+        "and": "f",
+        "esae": "n",
+        "mnae": [],
+        "carg": [
+            {
+                "cd": "11",
+                "nmn": "Prefeito",
+                "nmm": "Prefeito",
+                "nmf": "Prefeita",
+                "nv": "1",
+                "fed": [
+                    {
+                        "n": "101",
+                        "sg": "F101",
+                        "nm": "FEDERAÇÃO (P84/P69)",
+                        "com": "P84/P69",
+                        "npar": [
+                            "69",
+                            "84"
+                        ]
+                    },
+                    {
+                        "n": "102",
+                        "sg": "F102",
+                        "nm": "FEDERAÇÃO (P61/P87/P82)",
+                        "com": "P61/P87/P82",
+                        "npar": [
+                            "61",
+                            "82",
+                            "87"
+                        ]
+                    }
+                ],
+                "agr": [
+                    {
+                        "n": "280004553520",
+                        "nm": "PARTIDO 58",
+                        "tp": "i",
+                        "com": "P58",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "58",
+                                "sg": "P58",
+                                "nm": "PARTIDO 58",
+                                "nfed": "",
+                                "tvtn": "10600",
+                                "tvan": "10600",
+                                "cand": [
+                                    {
+                                        "n": "58",
+                                        "sqcand": "280013133776",
+                                        "nm": "CANDIDATO 58",
+                                        "nmu": "CANDIDATO 58",
+                                        "dt": "05/05/1973",
+                                        "dvt": "Válido",
+                                        "seq": "208",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "10600",
+                                        "pvap": "15,85",
+                                        "pvapn": "15,852126578",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013133777",
+                                                "nm": "CANDIDATO 58 1",
+                                                "nmu": "CANDIDATO 58 1",
+                                                "sgp": "P58"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004553946",
+                        "nm": "PARTIDO 59",
+                        "tp": "i",
+                        "com": "P59",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "59",
+                                "sg": "P59",
+                                "nm": "PARTIDO 59",
+                                "nfed": "",
+                                "tvtn": "0",
+                                "tvan": "10148",
+                                "cand": [
+                                    {
+                                        "n": "59",
+                                        "sqcand": "280013134649",
+                                        "nm": "CANDIDATO 59",
+                                        "nmu": "CANDIDATO 59",
+                                        "dt": "02/05/1976",
+                                        "dvt": "Anulado sub judice",
+                                        "seq": "212",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "10148",
+                                        "pvap": "15,18",
+                                        "pvapn": "15,176167973",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013134651",
+                                                "nm": "CANDIDATO 59 1",
+                                                "nmu": "CANDIDATO 59 1",
+                                                "sgp": "P59"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004554356",
+                        "nm": "FEDERAÇÃO (P69/P84)",
+                        "tp": "f",
+                        "com": "P69/P84",
+                        "tvtn": "11007",
+                        "tvan": "11007",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "69",
+                                "sg": "P69",
+                                "nm": "PARTIDO 69",
+                                "nfed": "101",
+                                "tvtn": "11007",
+                                "tvan": "11007",
+                                "cand": [
+                                    {
+                                        "n": "69",
+                                        "sqcand": "280013135445",
+                                        "nm": "CANDIDATO 69",
+                                        "nmu": "CANDIDATO 69",
+                                        "dt": "10/09/1929",
+                                        "dvt": "Válido",
+                                        "seq": "205",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "11007",
+                                        "pvap": "16,46",
+                                        "pvapn": "16,460788419",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013135446",
+                                                "nm": "CANDIDATO 69 1",
+                                                "nmu": "CANDIDATO 69 1",
+                                                "sgp": "P69"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004555620",
+                        "nm": "COLIGAÇÃO (P88/P89/P90)",
+                        "tp": "c",
+                        "com": "P88/P89/P90",
+                        "tvtn": "11332",
+                        "tvan": "11332",
+                        "par": [
+                            {
+                                "n": "88",
+                                "sg": "P88",
+                                "nm": "PARTIDO 88",
+                                "nfed": "",
+                                "tvtn": "11332",
+                                "tvan": "11332",
+                                "cand": [
+                                    {
+                                        "n": "88",
+                                        "sqcand": "280013137948",
+                                        "nm": "CANDIDATO 88",
+                                        "nmu": "CANDIDATO 88",
+                                        "dt": "29/11/1993",
+                                        "dvt": "Válido",
+                                        "seq": "203",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "11332",
+                                        "pvap": "16,95",
+                                        "pvapn": "16,946820602",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013137949",
+                                                "nm": "CANDIDATO 88 1",
+                                                "nmu": "CANDIDATO 88 1",
+                                                "sgp": "P88"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004555186",
+                        "nm": "COLIGAÇÃO (P62/P85/P64)",
+                        "tp": "c",
+                        "com": "P62/P85/P64",
+                        "tvtn": "12073",
+                        "tvan": "12073",
+                        "par": [
+                            {
+                                "n": "62",
+                                "sg": "P62",
+                                "nm": "PARTIDO 62",
+                                "nfed": "",
+                                "tvtn": "12073",
+                                "tvan": "12073",
+                                "cand": [
+                                    {
+                                        "n": "62",
+                                        "sqcand": "280013137140",
+                                        "nm": "CANDIDATO 62",
+                                        "nmu": "CANDIDATO 62",
+                                        "dt": "17/08/1983",
+                                        "dvt": "Válido",
+                                        "seq": "4",
+                                        "e": "s",
+                                        "st": "Eleito",
+                                        "vap": "12073",
+                                        "pvap": "18,05",
+                                        "pvapn": "18,054973979",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013137141",
+                                                "nm": "CANDIDATO 62 1",
+                                                "nmu": "CANDIDATO 62 1",
+                                                "sgp": "P62"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004554805",
+                        "nm": "FEDERAÇÃO (P87/P61/P82)",
+                        "tp": "f",
+                        "com": "P87/P61/P82",
+                        "tvtn": "11708",
+                        "tvan": "11708",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "87",
+                                "sg": "P87",
+                                "nm": "PARTIDO 87",
+                                "nfed": "102",
+                                "tvtn": "11708",
+                                "tvan": "11708",
+                                "cand": [
+                                    {
+                                        "n": "87",
+                                        "sqcand": "280013136303",
+                                        "nm": "CANDIDATO 87",
+                                        "nmu": "CANDIDATO 87",
+                                        "dt": "09/11/2033",
+                                        "dvt": "Válido",
+                                        "seq": "200",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "11708",
+                                        "pvap": "17,51",
+                                        "pvapn": "17,509122450",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013136304",
+                                                "nm": "CANDIDATO 87 1",
+                                                "nmu": "CANDIDATO 87 1",
+                                                "sgp": "P87"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "s": {
+            "ts": "361",
+            "st": "361",
+            "pst": "100,00",
+            "pstn": "100",
+            "snt": "0",
+            "psnt": "0,00",
+            "psntn": "0",
+            "si": "361",
+            "psi": "100,00",
+            "psin": "100",
+            "sni": "0",
+            "psni": "0,00",
+            "psnin": "0",
+            "sa": "361",
+            "psa": "100,00",
+            "psan": "100",
+            "sna": "0",
+            "psna": "0,00",
+            "psnan": "0"
+        },
+        "e": {
+            "te": "104286",
+            "est": "104286",
+            "pest": "100,00",
+            "pestn": "100",
+            "esnt": "0",
+            "pesnt": "0,00",
+            "pesntn": "0",
+            "esi": "104286",
+            "pesi": "100,00",
+            "pesin": "100",
+            "esni": "0",
+            "pesni": "0,00",
+            "pesnin": "0",
+            "esa": "104286",
+            "pesa": "100,00",
+            "pesan": "100",
+            "esna": "0",
+            "pesna": "0,00",
+            "pesnan": "0",
+            "c": "88808",
+            "pc": "85,16",
+            "pcn": "85,158122854",
+            "a": "15478",
+            "pa": "14,84",
+            "pan": "14,841877146"
+        },
+        "v": {
+            "tv": "88808",
+            "vvc": "66868",
+            "pvvc": "75,30",
+            "pvvcn": "75,295018467",
+            "vv": "56720",
+            "pvv": "84,82",
+            "pvvn": "84,823832027",
+            "vnom": "56720",
+            "pvnom": "100,00",
+            "pvnomn": "100",
+            "van": "0",
+            "pvan": "0,00",
+            "pvann": "0",
+            "vansj": "10148",
+            "pvansj": "15,18",
+            "pvansjn": "15,176167973",
+            "vb": "10422",
+            "pvb": "11,74",
+            "pvbn": "11,735429241",
+            "tvn": "11518",
+            "ptvn": "12,97",
+            "ptvnn": "12,969552293",
+            "vn": "11518",
+            "pvn": "100,00",
+            "pvnn": "100",
+            "vnt": "0",
+            "pvnt": "0,00",
+            "pvntn": "0",
+            "vscv": "0"
+        }
+    },
+    "Caxias": {
+        "ele": "10143",
+        "t": "1",
+        "f": "s",
+        "sup": "n",
+        "tpabr": "mu",
+        "cdabr": "07579",
+        "dg": "02/10/2024",
+        "hg": "08:42:03",
+        "dv": "s",
+        "dt": "02/10/2024",
+        "ht": "07:55:10",
+        "tf": "s",
+        "and": "f",
+        "esae": "n",
+        "mnae": [],
+        "carg": [
+            {
+                "cd": "11",
+                "nmn": "Prefeito",
+                "nmm": "Prefeito",
+                "nmf": "Prefeita",
+                "nv": "1",
+                "fed": [
+                    {
+                        "n": "102",
+                        "sg": "F102",
+                        "nm": "FEDERAÇÃO (P61/P87/P82)",
+                        "com": "P61/P87/P82",
+                        "npar": [
+                            "61",
+                            "82",
+                            "87"
+                        ]
+                    },
+                    {
+                        "n": "101",
+                        "sg": "F101",
+                        "nm": "FEDERAÇÃO (P84/P69)",
+                        "com": "P84/P69",
+                        "npar": [
+                            "69",
+                            "84"
+                        ]
+                    }
+                ],
+                "agr": [
+                    {
+                        "n": "280004554758",
+                        "nm": "FEDERAÇÃO (P87/P61/P82)",
+                        "tp": "f",
+                        "com": "P87/P61/P82",
+                        "tvtn": "11155",
+                        "tvan": "11155",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "61",
+                                "sg": "P61",
+                                "nm": "PARTIDO 61",
+                                "nfed": "102",
+                                "tvtn": "11155",
+                                "tvan": "11155",
+                                "cand": [
+                                    {
+                                        "n": "61",
+                                        "sqcand": "280013136197",
+                                        "nm": "CANDIDATO 61",
+                                        "nmu": "CANDIDATO 61",
+                                        "dt": "08/12/1927",
+                                        "dvt": "Válido",
+                                        "seq": "5",
+                                        "e": "s",
+                                        "st": "Eleito",
+                                        "vap": "11155",
+                                        "pvap": "18,37",
+                                        "pvapn": "18,373330259",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013136198",
+                                                "nm": "CANDIDATO 61 1",
+                                                "nmu": "CANDIDATO 61 1",
+                                                "sgp": "P61"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004553912",
+                        "nm": "PARTIDO 59",
+                        "tp": "i",
+                        "com": "P59",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "59",
+                                "sg": "P59",
+                                "nm": "PARTIDO 59",
+                                "nfed": "",
+                                "tvtn": "0",
+                                "tvan": "10142",
+                                "cand": [
+                                    {
+                                        "n": "59",
+                                        "sqcand": "280013134559",
+                                        "nm": "CANDIDATO 59",
+                                        "nmu": "CANDIDATO 59",
+                                        "dt": "08/11/1929",
+                                        "dvt": "Anulado sub judice",
+                                        "seq": "213",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "10142",
+                                        "pvap": "16,70",
+                                        "pvapn": "16,704824337",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013134560",
+                                                "nm": "CANDIDATO 59 1",
+                                                "nmu": "CANDIDATO 59 1",
+                                                "sgp": "P59"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004554292",
+                        "nm": "FEDERAÇÃO (P69/P84)",
+                        "tp": "f",
+                        "com": "P69/P84",
+                        "tvtn": "10599",
+                        "tvan": "10599",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "84",
+                                "sg": "P84",
+                                "nm": "PARTIDO 84",
+                                "nfed": "101",
+                                "tvtn": "10599",
+                                "tvan": "10599",
+                                "cand": [
+                                    {
+                                        "n": "84",
+                                        "sqcand": "280013135326",
+                                        "nm": "CANDIDATO 84",
+                                        "nmu": "CANDIDATO 84",
+                                        "dt": "15/10/1925",
+                                        "dvt": "Válido",
+                                        "seq": "209",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "10599",
+                                        "pvap": "17,46",
+                                        "pvapn": "17,457546160",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013135327",
+                                                "nm": "CANDIDATO 84 1",
+                                                "nmu": "CANDIDATO 84 1",
+                                                "sgp": "P84"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004555583",
+                        "nm": "COLIGAÇÃO (P88/P89/P90)",
+                        "tp": "c",
+                        "com": "P88/P89/P90",
+                        "tvtn": "10202",
+                        "tvan": "10202",
+                        "par": [
+                            {
+                                "n": "88",
+                                "sg": "P88",
+                                "nm": "PARTIDO 88",
+                                "nfed": "",
+                                "tvtn": "10202",
+                                "tvan": "10202",
+                                "cand": [
+                                    {
+                                        "n": "88",
+                                        "sqcand": "280013137884",
+                                        "nm": "CANDIDATO 88",
+                                        "nmu": "CANDIDATO 88",
+                                        "dt": "02/01/1991",
+                                        "dvt": "Válido",
+                                        "seq": "211",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "10202",
+                                        "pvap": "16,80",
+                                        "pvapn": "16,803649960",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013137885",
+                                                "nm": "CANDIDATO 88 1",
+                                                "nmu": "CANDIDATO 88 1",
+                                                "sgp": "P88"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004553432",
+                        "nm": "PARTIDO 58",
+                        "tp": "i",
+                        "com": "P58",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "58",
+                                "sg": "P58",
+                                "nm": "PARTIDO 58",
+                                "nfed": "",
+                                "tvtn": "8592",
+                                "tvan": "8592",
+                                "cand": [
+                                    {
+                                        "n": "58",
+                                        "sqcand": "280013133713",
+                                        "nm": "CANDIDATO 58",
+                                        "nmu": "CANDIDATO 58",
+                                        "dt": "24/05/1999",
+                                        "dvt": "Válido",
+                                        "seq": "218",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "8592",
+                                        "pvap": "14,15",
+                                        "pvapn": "14,151829098",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013133715",
+                                                "nm": "CANDIDATO 58 1",
+                                                "nmu": "CANDIDATO 58 1",
+                                                "sgp": "P58"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004555113",
+                        "nm": "COLIGAÇÃO (P62/P85/P64)",
+                        "tp": "c",
+                        "com": "P62/P85/P64",
+                        "tvtn": "10023",
+                        "tvan": "10023",
+                        "par": [
+                            {
+                                "n": "62",
+                                "sg": "P62",
+                                "nm": "PARTIDO 62",
+                                "nfed": "",
+                                "tvtn": "10023",
+                                "tvan": "10023",
+                                "cand": [
+                                    {
+                                        "n": "62",
+                                        "sqcand": "280013137054",
+                                        "nm": "CANDIDATO 62",
+                                        "nmu": "CANDIDATO 62",
+                                        "dt": "02/03/1956",
+                                        "dvt": "Válido",
+                                        "seq": "214",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "10023",
+                                        "pvap": "16,51",
+                                        "pvapn": "16,508820187",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013137055",
+                                                "nm": "CANDIDATO 62 1",
+                                                "nmu": "CANDIDATO 62 1",
+                                                "sgp": "P62"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "s": {
+            "ts": "494",
+            "st": "494",
+            "pst": "100,00",
+            "pstn": "100",
+            "snt": "0",
+            "psnt": "0,00",
+            "psntn": "0",
+            "si": "494",
+            "psi": "100,00",
+            "psin": "100",
+            "sni": "0",
+            "psni": "0,00",
+            "psnin": "0",
+            "sa": "494",
+            "psa": "100,00",
+            "psan": "100",
+            "sna": "0",
+            "psna": "0,00",
+            "psnan": "0"
+        },
+        "e": {
+            "te": "96420",
+            "est": "96420",
+            "pest": "100,00",
+            "pestn": "100",
+            "esnt": "0",
+            "pesnt": "0,00",
+            "pesntn": "0",
+            "esi": "96420",
+            "pesi": "100,00",
+            "pesin": "100",
+            "esni": "0",
+            "pesni": "0,00",
+            "pesnin": "0",
+            "esa": "96420",
+            "pesa": "100,00",
+            "pesan": "100",
+            "esna": "0",
+            "pesna": "0,00",
+            "pesnan": "0",
+            "c": "82188",
+            "pc": "85,24",
+            "pcn": "85,239576851",
+            "a": "14232",
+            "pa": "14,76",
+            "pan": "14,760423149"
+        },
+        "v": {
+            "tv": "82188",
+            "vvc": "60713",
+            "pvvc": "73,87",
+            "pvvcn": "73,870881394",
+            "vv": "50571",
+            "pvv": "83,30",
+            "pvvn": "83,295175663",
+            "vnom": "50571",
+            "pvnom": "100,00",
+            "pvnomn": "100",
+            "van": "0",
+            "pvan": "0,00",
+            "pvann": "0",
+            "vansj": "10142",
+            "pvansj": "16,70",
+            "pvansjn": "16,704824337",
+            "vb": "11695",
+            "pvb": "14,23",
+            "pvbn": "14,229571227",
+            "tvn": "9780",
+            "ptvn": "11,90",
+            "ptvnn": "11,899547379",
+            "vn": "9780",
+            "pvn": "100,00",
+            "pvnn": "100",
+            "vnt": "0",
+            "pvnt": "0,00",
+            "pvntn": "0",
+            "vscv": "0"
+        }
+    },
+    "São Luís": {
+        "ele": "10143",
+        "t": "1",
+        "f": "s",
+        "sup": "n",
+        "tpabr": "mu",
+        "cdabr": "09210",
+        "dg": "02/10/2024",
+        "hg": "08:42:04",
+        "dv": "s",
+        "dt": "02/10/2024",
+        "ht": "08:30:07",
+        "tf": "s",
+        "and": "f",
+        "esae": "n",
+        "mnae": [],
+        "carg": [
+            {
+                "cd": "11",
+                "nmn": "Prefeito",
+                "nmm": "Prefeito",
+                "nmf": "Prefeita",
+                "nv": "1",
+                "fed": [
+                    {
+                        "n": "103",
+                        "sg": "F103",
+                        "nm": "FEDERAÇÃO (P85/P64)",
+                        "com": "P85/P64",
+                        "npar": [
+                            "64",
+                            "85"
+                        ]
+                    },
+                    {
+                        "n": "102",
+                        "sg": "F102",
+                        "nm": "FEDERAÇÃO (P61/P87/P82)",
+                        "com": "P61/P87/P82",
+                        "npar": [
+                            "61",
+                            "82",
+                            "87"
+                        ]
+                    }
+                ],
+                "agr": [
+                    {
+                        "n": "280004550782",
+                        "nm": "PARTIDO 14",
+                        "tp": "i",
+                        "com": "P14",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "14",
+                                "sg": "P14",
+                                "nm": "PARTIDO 14",
+                                "nfed": "",
+                                "tvtn": "47709",
+                                "tvan": "47709",
+                                "cand": [
+                                    {
+                                        "n": "14",
+                                        "sqcand": "280013119369",
+                                        "nm": "CANDIDATO 14",
+                                        "nmu": "CANDIDATO 14",
+                                        "dt": "18/05/1989",
+                                        "dvt": "Válido",
+                                        "seq": "194",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "47709",
+                                        "pvap": "9,76",
+                                        "pvapn": "9,764169189",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013119370",
+                                                "nm": "CANDIDATO 14 1",
+                                                "nmu": "CANDIDATO 14 1",
+                                                "sgp": "P14"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004550783",
+                        "nm": "COLIGAÇÃO (P88/P89/P90)",
+                        "tp": "c",
+                        "com": "P88/P89/P90",
+                        "tvtn": "51449",
+                        "tvan": "51449",
+                        "par": [
+                            {
+                                "n": "88",
+                                "sg": "P88",
+                                "nm": "PARTIDO 88",
+                                "nfed": "",
+                                "tvtn": "51449",
+                                "tvan": "51449",
+                                "cand": [
+                                    {
+                                        "n": "88",
+                                        "sqcand": "280013119371",
+                                        "nm": "CANDIDATO 88",
+                                        "nmu": "CANDIDATO 88",
+                                        "dt": "15/02/1929",
+                                        "dvt": "Válido",
+                                        "seq": "2",
+                                        "e": "s",
+                                        "st": "2º turno",
+                                        "vap": "51449",
+                                        "pvap": "10,53",
+                                        "pvapn": "10,529601136",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013119372",
+                                                "nm": "CANDIDATO 88 1",
+                                                "nmu": "CANDIDATO 88 1",
+                                                "sgp": "P88"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004550765",
+                        "nm": "PARTIDO 58",
+                        "tp": "i",
+                        "com": "P58",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "58",
+                                "sg": "P58",
+                                "nm": "PARTIDO 58",
+                                "nfed": "",
+                                "tvtn": "46474",
+                                "tvan": "46474",
+                                "cand": [
+                                    {
+                                        "n": "58",
+                                        "sqcand": "280013119270",
+                                        "nm": "CANDIDATO 58",
+                                        "nmu": "CANDIDATO 58",
+                                        "dt": "30/03/1929",
+                                        "dvt": "Válido",
+                                        "seq": "196",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "46474",
+                                        "pvap": "9,51",
+                                        "pvapn": "9,511412918",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013119271",
+                                                "nm": "CANDIDATO 58 1",
+                                                "nmu": "CANDIDATO 58 1",
+                                                "sgp": "P58"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004550766",
+                        "nm": "PARTIDO 51",
+                        "tp": "i",
+                        "com": "P51",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "51",
+                                "sg": "P51",
+                                "nm": "PARTIDO 51",
+                                "nfed": "",
+                                "tvtn": "49553",
+                                "tvan": "49553",
+                                "cand": [
+                                    {
+                                        "n": "51",
+                                        "sqcand": "280013119392",
+                                        "nm": "CANDIDATO 51",
+                                        "nmu": "CANDIDATO 51",
+                                        "dt": "18/10/1991",
+                                        "dvt": "Válido",
+                                        "seq": "191",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "49553",
+                                        "pvap": "10,14",
+                                        "pvapn": "10,141563978",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013119393",
+                                                "nm": "CANDIDATO 51 1",
+                                                "nmu": "CANDIDATO 51 1",
+                                                "sgp": "P51"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004550737",
+                        "nm": "COLIGAÇÃO (P62/P69/P84)",
+                        "tp": "c",
+                        "com": "P62/P69/P84",
+                        "tvtn": "48204",
+                        "tvan": "48204",
+                        "par": [
+                            {
+                                "n": "62",
+                                "sg": "P62",
+                                "nm": "PARTIDO 62",
+                                "nfed": "",
+                                "tvtn": "48204",
+                                "tvan": "48204",
+                                "cand": [
+                                    {
+                                        "n": "62",
+                                        "sqcand": "280013119307",
+                                        "nm": "CANDIDATO 62",
+                                        "nmu": "CANDIDATO 62",
+                                        "dt": "07/10/1929",
+                                        "dvt": "Válido",
+                                        "seq": "193",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "48204",
+                                        "pvap": "9,87",
+                                        "pvapn": "9,865476359",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013119308",
+                                                "nm": "CANDIDATO 62 1",
+                                                "nmu": "CANDIDATO 62 1",
+                                                "sgp": "P62"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004550736",
+                        "nm": "PARTIDO 59",
+                        "tp": "i",
+                        "com": "P59",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "59",
+                                "sg": "P59",
+                                "nm": "PARTIDO 59",
+                                "nfed": "",
+                                "tvtn": "0",
+                                "tvan": "53286",
+                                "cand": [
+                                    {
+                                        "n": "59",
+                                        "sqcand": "280013119305",
+                                        "nm": "CANDIDATO 59",
+                                        "nmu": "CANDIDATO 59",
+                                        "dt": "10/05/1964",
+                                        "dvt": "Anulado sub judice",
+                                        "seq": "1",
+                                        "e": "s",
+                                        "st": "2º turno",
+                                        "vap": "53286",
+                                        "pvap": "10,91",
+                                        "pvapn": "10,905563299",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013119306",
+                                                "nm": "CANDIDATO 59 1",
+                                                "nmu": "CANDIDATO 59 1",
+                                                "sgp": "P59"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004550798",
+                        "nm": "FEDERAÇÃO (P87/P61/P82)",
+                        "tp": "f",
+                        "com": "P87/P61/P82",
+                        "tvtn": "45346",
+                        "tvan": "45346",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "87",
+                                "sg": "P87",
+                                "nm": "PARTIDO 87",
+                                "nfed": "102",
+                                "tvtn": "45346",
+                                "tvan": "45346",
+                                "cand": [
+                                    {
+                                        "n": "87",
+                                        "sqcand": "280013119309",
+                                        "nm": "CANDIDATO 87",
+                                        "nmu": "CANDIDATO 87",
+                                        "dt": "13/05/1929",
+                                        "dvt": "Válido",
+                                        "seq": "197",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "45346",
+                                        "pvap": "9,28",
+                                        "pvapn": "9,280555368",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013119310",
+                                                "nm": "CANDIDATO 87 1",
+                                                "nmu": "CANDIDATO 87 1",
+                                                "sgp": "P87"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004550781",
+                        "nm": "PARTIDO 60",
+                        "tp": "i",
+                        "com": "P60",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "60",
+                                "sg": "P60",
+                                "nm": "PARTIDO 60",
+                                "nfed": "",
+                                "tvtn": "49382",
+                                "tvan": "49382",
+                                "cand": [
+                                    {
+                                        "n": "60",
+                                        "sqcand": "280013119367",
+                                        "nm": "CANDIDATO 60",
+                                        "nmu": "CANDIDATO 60",
+                                        "dt": "29/09/1966",
+                                        "dvt": "Válido",
+                                        "seq": "192",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "49382",
+                                        "pvap": "10,11",
+                                        "pvapn": "10,106566956",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013119368",
+                                                "nm": "CANDIDATO 60 1",
+                                                "nmu": "CANDIDATO 60 1",
+                                                "sgp": "P60"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004550784",
+                        "nm": "FEDERAÇÃO (P85/P64)",
+                        "tp": "f",
+                        "com": "P85/P64",
+                        "tvtn": "50160",
+                        "tvan": "50160",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "64",
+                                "sg": "P64",
+                                "nm": "PARTIDO 64",
+                                "nfed": "103",
+                                "tvtn": "50160",
+                                "tvan": "50160",
+                                "cand": [
+                                    {
+                                        "n": "64",
+                                        "sqcand": "280013119373",
+                                        "nm": "CANDIDATO 64",
+                                        "nmu": "CANDIDATO 64",
+                                        "dt": "08/11/1948",
+                                        "dvt": "Válido",
+                                        "seq": "190",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "50160",
+                                        "pvap": "10,27",
+                                        "pvapn": "10,265793174",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013119374",
+                                                "nm": "CANDIDATO 64 1",
+                                                "nmu": "CANDIDATO 64 1",
+                                                "sgp": "P64"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "n": "280004550694",
+                        "nm": "PARTIDO 75",
+                        "tp": "i",
+                        "com": "P75",
+                        "vag": "0",
+                        "par": [
+                            {
+                                "n": "75",
+                                "sg": "P75",
+                                "nm": "PARTIDO 75",
+                                "nfed": "",
+                                "tvtn": "47050",
+                                "tvan": "47050",
+                                "cand": [
+                                    {
+                                        "n": "75",
+                                        "sqcand": "280013118764",
+                                        "nm": "CANDIDATO 75",
+                                        "nmu": "CANDIDATO 75",
+                                        "dt": "18/11/1954",
+                                        "dvt": "Válido",
+                                        "seq": "195",
+                                        "e": "n",
+                                        "st": "Não eleito",
+                                        "vap": "47050",
+                                        "pvap": "9,63",
+                                        "pvapn": "9,629297624",
+                                        "vs": [
+                                            {
+                                                "tp": "v",
+                                                "sqcand": "280013118765",
+                                                "nm": "CANDIDATO 75 1",
+                                                "nmu": "CANDIDATO 75 1",
+                                                "sgp": "P75"
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "s": {
+            "ts": "2158",
+            "st": "2158",
+            "pst": "100,00",
+            "pstn": "100",
+            "snt": "0",
+            "psnt": "0,00",
+            "psntn": "0",
+            "si": "2158",
+            "psi": "100,00",
+            "psin": "100",
+            "sni": "0",
+            "psni": "0,00",
+            "psnin": "0",
+            "sa": "2158",
+            "psa": "100,00",
+            "psan": "100",
+            "sna": "0",
+            "psna": "0,00",
+            "psnan": "0"
+        },
+        "e": {
+            "te": "692434",
+            "est": "692434",
+            "pest": "100,00",
+            "pestn": "100",
+            "esnt": "0",
+            "pesnt": "0,00",
+            "pesntn": "0",
+            "esi": "692434",
+            "pesi": "100,00",
+            "pesin": "100",
+            "esni": "0",
+            "pesni": "0,00",
+            "pesnin": "0",
+            "esa": "692434",
+            "pesa": "100,00",
+            "pesan": "100",
+            "esna": "0",
+            "pesna": "0,00",
+            "pesnan": "0",
+            "c": "589600",
+            "pc": "85,15",
+            "pcn": "85,148909499",
+            "a": "102834",
+            "pa": "14,85",
+            "pan": "14,851090501"
+        },
+        "v": {
+            "tv": "589600",
+            "vvc": "488613",
+            "pvvc": "82,87",
+            "pvvcn": "82,871947083",
+            "vv": "435327",
+            "pvv": "89,09",
+            "pvvn": "89,094436701",
+            "vnom": "435327",
+            "pvnom": "100,00",
+            "pvnomn": "100",
+            "van": "0",
+            "pvan": "0,00",
+            "pvann": "0",
+            "vansj": "53286",
+            "pvansj": "10,91",
+            "pvansjn": "10,905563299",
+            "vb": "49891",
+            "pvb": "8,46",
+            "pvbn": "8,461838535",
+            "tvn": "51096",
+            "ptvn": "8,67",
+            "ptvnn": "8,666214383",
+            "vn": "51096",
+            "pvn": "100,00",
+            "pvnn": "100",
+            "vnt": "0",
+            "pvnt": "0,00",
+            "pvntn": "0",
+            "vscv": "0"
+        }
+    }
+}
