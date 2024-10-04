@@ -1,0 +1,40 @@
+Esse JSON do link da simulação do TSE para eleições de 2024 contém dados de uma seção eleitoral específica no formato estruturado. Vou te explicar os principais elementos que você verá no arquivo:
+
+1. **dados de apuração**:
+   - **s**: Seções totais e informações agregadas da apuração.
+     - **ts**: Total de seções.
+     - **st**: Seções apuradas.
+     - **pst**: Percentual de seções apuradas.
+     - **snt**: Seções não transmitidas.
+     - **psnt**: Percentual de seções não transmitidas.
+     - **si**: Seções instaladas.
+     - **sa**: Seções apuradas.
+  
+2. **eleitores**:
+   - **te**: Total de eleitores.
+   - **est**: Eleitores apurados.
+   - **c**: Número de votos computados.
+   - **a**: Abstenções.
+
+3. **votos**:
+   - **tv**: Total de votos válidos.
+   - **vb**: Votos em branco.
+   - **vn**: Votos nulos.
+   - **vansj**: Votos anulados sub judice (sub judice refere-se a processos pendentes de julgamento).
+   - **vv**: Total de votos válidos nominais.
+
+4. **partidos e candidatos**:
+   - **cand**: Lista dos candidatos.
+     - **n**: Número do candidato.
+     - **nm**: Nome do candidato.
+     - **dvt**: Situação do voto (válido, anulado, etc).
+     - **vap**: Número de votos recebidos.
+     - **pvap**: Percentual de votos válidos recebidos pelo candidato.
+
+5. **partidos**:
+   - **par**: Informações dos partidos.
+     - **nm**: Nome do partido.
+     - **sg**: Sigla do partido.
+     - **cand**: Candidatos do partido.
+
+O JSON também apresenta metadados da apuração geral da cidade ou seção eleitoral. Esses dados incluem tanto os votos já apurados quanto os que ainda estão sendo processados, divididos por candidatos e partidos.
